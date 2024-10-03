@@ -3,7 +3,7 @@
 <bgcolor="black">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahmanzafrullabaig&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahmanzafrullabaig" /> </p>
-<img align="right" src="https://img.freepik.com/free-photo/view-3d-man-using-laptop_23-2150709796.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1727654400&semt=ais_hybrid" style="radius:10%; width:400px; height:400px; top:10px;"alt="alternative text">
+
 
 - 🔭 I’m currently working on **Optimal Character Recognition**
 
