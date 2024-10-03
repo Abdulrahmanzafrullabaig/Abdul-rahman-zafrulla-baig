@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdul Rahman Zafrulla Baig</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<bgcolor="black">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahmanzafrullabaig&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahmanzafrullabaig" /> </p>
-<img align="right" src="https://img.freepik.com/free-photo/view-3d-man-holding-laptop_23-2150709818.jpg?t=st=1727972968~exp=1727976568~hmac=b11b06f6a8d29cb0bd635b66010a605136677fa01ebfc84cbc8aa8798583856b&w=740" style=" width:400px; height:400px; top:10px;"alt="alternative text">
+<img align="right" src="https://img.freepik.com/free-photo/view-3d-man-using-laptop_23-2150709796.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1727654400&semt=ais_hybrid" style="radius:10%; width:400px; height:400px; top:10px;"alt="alternative text">
 
 - 🔭 I’m currently working on **Optimal Character Recognition**
 
