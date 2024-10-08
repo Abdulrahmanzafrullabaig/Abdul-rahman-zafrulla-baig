@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **arzb26112004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/computers](https://drive.google.com/drive/u/0/computers)
+- 📄 Check my resume **https://storage.googleapis.com/resume-hosting/670559c036d13.pdf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
